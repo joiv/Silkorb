@@ -1,2 +1,5 @@
 name: Silkorb
-description: A pub package 
+version: 0.0.1
+author: joiv
+description: A pub package
+homepage: https://github.com/joiv/Silkorb
